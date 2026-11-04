@@ -1,0 +1,17 @@
+bg = "#0b0c10"
+surface = "#15182d"
+
+purple = "#8b5cf6"
+cyan = "#06b6d4"
+green = "#10b981"
+pink = "#fb7185"
+blue = "#3b82f6"
+amber = "#f59e0b"
+
+salmon = "#ff92aa"
+electric = "#3dffea"
+magenta = "#ff3ddb"
+
+text = "#f0f8ff"
+text-soft = "#e2e8f0"
+text-muted = "#94a3b8"

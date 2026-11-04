@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 4000 4000"
+   version="1.1"
+   id="svg82"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs36">
+    <radialGradient
+       id="g1">
+      <stop
+         offset="0%"
+         stop-color="#8b5cf6"
+         stop-opacity="0.65"
+         id="stop1" />
+      <stop
+         offset="28%"
+         stop-color="#8b5cf6"
+         stop-opacity="0.16"
+         id="stop2" />
+      <stop
+         offset="56%"
+         stop-color="#8b5cf6"
+         stop-opacity="0"
+         id="stop3" />
+    </radialGradient>
+    <radialGradient
+       id="g2">
+      <stop
+         offset="0%"
+         stop-color="#06b6d4"
+         stop-opacity="0.65"
+         id="stop4" />
+      <stop
+         offset="28%"
+         stop-color="#06b6d4"
+         stop-opacity="0.16"
+         id="stop5" />
+      <stop
+         offset="55%"
+         stop-color="#06b6d4"
+         stop-opacity="0"
+         id="stop6" />
+    </radialGradient>
+    <radialGradient
+       id="g3">
+      <stop
+         offset="0%"
+         stop-color="#10b981"
+         stop-opacity="0.6"
+         id="stop7" />
+      <stop
+         offset="30%"
+         stop-color="#10b981"
+         stop-opacity="0.14"
+         id="stop8" />
+      <stop
+         offset="56%"
+         stop-color="#10b981"
+         stop-opacity="0"
+         id="stop9" />
+    </radialGradient>
+    <radialGradient
+       id="g4">
+      <stop
+         offset="0%"
+         stop-color="#fb7185"
+         stop-opacity="0.65"
+         id="stop10" />
+      <stop
+         offset="28%"
+         stop-color="#fb7185"
+         stop-opacity="0.16"
+         id="stop11" />
+      <stop
+         offset="56%"
+         stop-color="#fb7185"
+         stop-opacity="0"
+         id="stop12" />
+    </radialGradient>
+    <radialGradient
+       id="g5">
+      <stop
+         offset="0%"
+         stop-color="#3b82f6"
+         stop-opacity="0.65"
+         id="stop13" />
+      <stop
+         offset="26%"
+         stop-color="#3b82f6"
+         stop-opacity="0.16"
+         id="stop14" />
+      <stop
+         offset="54%"
+         stop-color="#3b82f6"
+         stop-opacity="0"
+         id="stop15" />
+    </radialGradient>
+    <radialGradient
+       id="g6"
+       cx="2040"
+       cy="1313"
+       fx="2040"
+       fy="1313"
+       r="915"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#f59e0b"
+         stop-opacity="0.6"
+         id="stop16" />
+      <stop
+         offset="28%"
+         stop-color="#f59e0b"
+         stop-opacity="0.14"
+         id="stop17" />
+      <stop
+         offset="56%"
+         stop-color="#f59e0b"
+         stop-opacity="0"
+         id="stop18" />
+    </radialGradient>
+    <radialGradient
+       id="g7">
+      <stop
+         offset="0%"
+         stop-color="#fb7185"
+         stop-opacity="0.65"
+         id="stop19" />
+      <stop
+         offset="26%"
+         stop-color="#fb7185"
+         stop-opacity="0.16"
+         id="stop20" />
+      <stop
+         offset="54%"
+         stop-color="#fb7185"
+         stop-opacity="0"
+         id="stop21" />
+    </radialGradient>
+    <radialGradient
+       id="g8">
+      <stop
+         offset="0%"
+         stop-color="#10b981"
+         stop-opacity="0.6"
+         id="stop22" />
+      <stop
+         offset="28%"
+         stop-color="#10b981"
+         stop-opacity="0.14"
+         id="stop23" />
+      <stop
+         offset="56%"
+         stop-color="#10b981"
+         stop-opacity="0"
+         id="stop24" />
+    </radialGradient>
+    <radialGradient
+       id="g9">
+      <stop
+         offset="0%"
+         stop-color="#8b5cf6"
+         stop-opacity="0.65"
+         id="stop25" />
+      <stop
+         offset="26%"
+         stop-color="#8b5cf6"
+         stop-opacity="0.16"
+         id="stop26" />
+      <stop
+         offset="54%"
+         stop-color="#8b5cf6"
+         stop-opacity="0"
+         id="stop27" />
+    </radialGradient>
+    <radialGradient
+       id="g10">
+      <stop
+         offset="0%"
+         stop-color="#f59e0b"
+         stop-opacity="0.6"
+         id="stop28" />
+      <stop
+         offset="24%"
+         stop-color="#f59e0b"
+         stop-opacity="0.14"
+         id="stop29" />
+      <stop
+         offset="52%"
+         stop-color="#f59e0b"
+         stop-opacity="0"
+         id="stop30" />
+    </radialGradient>
+    <radialGradient
+       id="g11">
+      <stop
+         offset="0%"
+         stop-color="#3b82f6"
+         stop-opacity="0.65"
+         id="stop31" />
+      <stop
+         offset="26%"
+         stop-color="#3b82f6"
+         stop-opacity="0.16"
+         id="stop32" />
+      <stop
+         offset="54%"
+         stop-color="#3b82f6"
+         stop-opacity="0"
+         id="stop33" />
+    </radialGradient>
+    <radialGradient
+       id="g12"
+       cx="2263"
+       cy="2000"
+       fx="2263"
+       fy="2000"
+       r="852"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#06b6d4"
+         stop-opacity="0.65"
+         id="stop34" />
+      <stop
+         offset="24%"
+         stop-color="#06b6d4"
+         stop-opacity="0.16"
+         id="stop35" />
+      <stop
+         offset="48%"
+         stop-color="#06b6d4"
+         stop-opacity="0"
+         id="stop36" />
+    </radialGradient>
+    <radialGradient
+       xlink:href="#g3"
+       id="radialGradient170"
+       cx="558"
+       cy="165"
+       fx="558"
+       fy="165"
+       r="910"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g3"
+       id="radialGradient171"
+       cx="4558"
+       cy="165"
+       fx="4558"
+       fy="165"
+       r="910"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g3"
+       id="radialGradient172"
+       cx="558"
+       cy="4165"
+       fx="558"
+       fy="4165"
+       r="910"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g3"
+       id="radialGradient173"
+       cx="4558"
+       cy="4165"
+       fx="4558"
+       fy="4165"
+       r="910"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g4"
+       id="radialGradient174"
+       cx="1409"
+       cy="441"
+       fx="1409"
+       fy="441"
+       r="866"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g4"
+       id="radialGradient175"
+       cx="1409"
+       cy="4441"
+       fx="1409"
+       fy="4441"
+       r="866"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g1"
+       id="radialGradient176"
+       cx="1995"
+       cy="194"
+       fx="1995"
+       fy="194"
+       r="853"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g1"
+       id="radialGradient177"
+       cx="1995"
+       cy="4194"
+       fx="1995"
+       fy="4194"
+       r="853"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g1"
+       id="radialGradient178"
+       cx="2967"
+       cy="298"
+       fx="2967"
+       fy="298"
+       r="866"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g1"
+       id="radialGradient179"
+       cx="2967"
+       cy="4298"
+       fx="2967"
+       fy="4298"
+       r="866"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g11"
+       id="radialGradient180"
+       cx="3765"
+       cy="593"
+       fx="3765"
+       fy="593"
+       r="906"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g11"
+       id="radialGradient181"
+       cx="-235"
+       cy="593"
+       fx="-235"
+       fy="593"
+       r="906"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g11"
+       id="radialGradient182"
+       cx="3765"
+       cy="4593"
+       fx="3765"
+       fy="4593"
+       r="906"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g11"
+       id="radialGradient183"
+       cx="-235"
+       cy="4593"
+       fx="-235"
+       fy="4593"
+       r="906"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g3"
+       id="radialGradient184"
+       cx="175"
+       cy="1477"
+       fx="175"
+       fy="1477"
+       r="876"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g3"
+       id="radialGradient185"
+       cx="4175"
+       cy="1477"
+       fx="4175"
+       fy="1477"
+       r="876"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g8"
+       id="radialGradient186"
+       cx="1025"
+       cy="1068"
+       fx="1025"
+       fy="1068"
+       r="871"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g2"
+       id="radialGradient187"
+       cx="2662"
+       cy="1413"
+       fx="2662"
+       fy="1413"
+       r="899"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g7"
+       id="radialGradient188"
+       cx="3872"
+       cy="1047"
+       fx="3872"
+       fy="1047"
+       r="844"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g7"
+       id="radialGradient189"
+       cx="-128"
+       cy="1047"
+       fx="-128"
+       fy="1047"
+       r="844"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g2"
+       id="radialGradient190"
+       cx="474"
+       cy="1762"
+       fx="474"
+       fy="1762"
+       r="907"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g2"
+       id="radialGradient191"
+       cx="4474"
+       cy="1762"
+       fx="4474"
+       fy="1762"
+       r="907"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g10"
+       id="radialGradient192"
+       cx="933"
+       cy="1832"
+       fx="933"
+       fy="1832"
+       r="888"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g5"
+       id="radialGradient193"
+       cx="2624"
+       cy="2098"
+       fx="2624"
+       fy="2098"
+       r="847"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g9"
+       id="radialGradient194"
+       cx="3412"
+       cy="2216"
+       fx="3412"
+       fy="2216"
+       r="888"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g9"
+       id="radialGradient195"
+       cx="-588"
+       cy="2216"
+       fx="-588"
+       fy="2216"
+       r="888"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g8"
+       id="radialGradient196"
+       cx="429"
+       cy="3037"
+       fx="429"
+       fy="3037"
+       r="879"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g8"
+       id="radialGradient197"
+       cx="4429"
+       cy="3037"
+       fx="4429"
+       fy="3037"
+       r="879"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g10"
+       id="radialGradient198"
+       cx="1181"
+       cy="2910"
+       fx="1181"
+       fy="2910"
+       r="846"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g1"
+       id="radialGradient199"
+       cx="2137"
+       cy="2593"
+       fx="2137"
+       fy="2593"
+       r="899"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g8"
+       id="radialGradient200"
+       cx="2886"
+       cy="2780"
+       fx="2886"
+       fy="2780"
+       r="846"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g11"
+       id="radialGradient201"
+       cx="182"
+       cy="3792"
+       fx="182"
+       fy="3792"
+       r="852"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g11"
+       id="radialGradient202"
+       cx="4182"
+       cy="3792"
+       fx="4182"
+       fy="3792"
+       r="852"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g11"
+       id="radialGradient203"
+       cx="182"
+       cy="-208"
+       fx="182"
+       fy="-208"
+       r="852"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g11"
+       id="radialGradient204"
+       cx="4182"
+       cy="-208"
+       fx="4182"
+       fy="-208"
+       r="852"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g5"
+       id="radialGradient205"
+       cx="1049"
+       cy="3765"
+       fx="1049"
+       fy="3765"
+       r="853"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g5"
+       id="radialGradient206"
+       cx="1049"
+       cy="-235"
+       fx="1049"
+       fy="-235"
+       r="853"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g2"
+       id="radialGradient207"
+       cx="1873"
+       cy="3601"
+       fx="1873"
+       fy="3601"
+       r="850"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g2"
+       id="radialGradient208"
+       cx="1873"
+       cy="-399"
+       fx="1873"
+       fy="-399"
+       r="850"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g8"
+       id="radialGradient209"
+       cx="2544"
+       cy="3753"
+       fx="2544"
+       fy="3753"
+       r="911"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g8"
+       id="radialGradient210"
+       cx="2544"
+       cy="-247"
+       fx="2544"
+       fy="-247"
+       r="911"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g3"
+       id="radialGradient211"
+       cx="3574"
+       cy="3381"
+       fx="3574"
+       fy="3381"
+       r="880"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g3"
+       id="radialGradient212"
+       cx="-426"
+       cy="3381"
+       fx="-426"
+       fy="3381"
+       r="880"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g3"
+       id="radialGradient213"
+       cx="3574"
+       cy="-619"
+       fx="3574"
+       fy="-619"
+       r="880"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#g3"
+       id="radialGradient214"
+       cx="-426"
+       cy="-619"
+       fx="-426"
+       fy="-619"
+       r="880"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter214"
+       x="-0.0077098616"
+       y="-0.0076503685"
+       width="1.0154197"
+       height="1.0153007">
+      <feGaussianBlur
+         stdDeviation="22.3072"
+         id="feGaussianBlur214" />
+    </filter>
+  </defs>
+  <rect
+     width="4000"
+     height="4000"
+     fill="#0b0c10"
+     id="rect36"
+     x="0"
+     y="0" />
+  <g
+     id="layer1"
+     style="filter:url(#filter214)">
+    <circle
+       cx="558"
+       cy="165"
+       r="910"
+       fill="url(#g3)"
+       id="circle36"
+       style="fill:url(#radialGradient170)" />
+    <circle
+       cx="4558"
+       cy="165"
+       r="910"
+       fill="url(#g3)"
+       id="circle37"
+       style="fill:url(#radialGradient171)" />
+    <circle
+       cx="558"
+       cy="4165"
+       r="910"
+       fill="url(#g3)"
+       id="circle38"
+       style="fill:url(#radialGradient172)" />
+    <circle
+       cx="4558"
+       cy="4165"
+       r="910"
+       fill="url(#g3)"
+       id="circle39"
+       style="fill:url(#radialGradient173)" />
+    <circle
+       cx="1409"
+       cy="441"
+       r="866"
+       fill="url(#g4)"
+       id="circle40"
+       style="fill:url(#radialGradient174)" />
+    <circle
+       cx="1409"
+       cy="4441"
+       r="866"
+       fill="url(#g4)"
+       id="circle41"
+       style="fill:url(#radialGradient175)" />
+    <circle
+       cx="1995"
+       cy="194"
+       r="853"
+       fill="url(#g1)"
+       id="circle42"
+       style="fill:url(#radialGradient176)" />
+    <circle
+       cx="1995"
+       cy="4194"
+       r="853"
+       fill="url(#g1)"
+       id="circle43"
+       style="fill:url(#radialGradient177)" />
+    <circle
+       cx="2967"
+       cy="298"
+       r="866"
+       fill="url(#g1)"
+       id="circle44"
+       style="fill:url(#radialGradient178)" />
+    <circle
+       cx="2967"
+       cy="4298"
+       r="866"
+       fill="url(#g1)"
+       id="circle45"
+       style="fill:url(#radialGradient179)" />
+    <circle
+       cx="3765"
+       cy="593"
+       r="906"
+       fill="url(#g11)"
+       id="circle46"
+       style="fill:url(#radialGradient180)" />
+    <circle
+       cx="-235"
+       cy="593"
+       r="906"
+       fill="url(#g11)"
+       id="circle47"
+       style="fill:url(#radialGradient181)" />
+    <circle
+       cx="3765"
+       cy="4593"
+       r="906"
+       fill="url(#g11)"
+       id="circle48"
+       style="fill:url(#radialGradient182)" />
+    <circle
+       cx="-235"
+       cy="4593"
+       r="906"
+       fill="url(#g11)"
+       id="circle49"
+       style="fill:url(#radialGradient183)" />
+    <circle
+       cx="175"
+       cy="1477"
+       r="876"
+       fill="url(#g3)"
+       id="circle50"
+       style="fill:url(#radialGradient184)" />
+    <circle
+       cx="4175"
+       cy="1477"
+       r="876"
+       fill="url(#g3)"
+       id="circle51"
+       style="fill:url(#radialGradient185)" />
+    <circle
+       cx="1025"
+       cy="1068"
+       r="871"
+       fill="url(#g8)"
+       id="circle52"
+       style="fill:url(#radialGradient186)" />
+    <circle
+       cx="2040"
+       cy="1313"
+       r="915"
+       fill="url(#g6)"
+       id="circle53"
+       style="fill:url(#g6)" />
+    <circle
+       cx="2662"
+       cy="1413"
+       r="899"
+       fill="url(#g2)"
+       id="circle54"
+       style="fill:url(#radialGradient187)" />
+    <circle
+       cx="3872"
+       cy="1047"
+       r="844"
+       fill="url(#g7)"
+       id="circle55"
+       style="fill:url(#radialGradient188)" />
+    <circle
+       cx="-128"
+       cy="1047"
+       r="844"
+       fill="url(#g7)"
+       id="circle56"
+       style="fill:url(#radialGradient189)" />
+    <circle
+       cx="474"
+       cy="1762"
+       r="907"
+       fill="url(#g2)"
+       id="circle57"
+       style="fill:url(#radialGradient190)" />
+    <circle
+       cx="4474"
+       cy="1762"
+       r="907"
+       fill="url(#g2)"
+       id="circle58"
+       style="fill:url(#radialGradient191)" />
+    <circle
+       cx="933"
+       cy="1832"
+       r="888"
+       fill="url(#g10)"
+       id="circle59"
+       style="fill:url(#radialGradient192)" />
+    <circle
+       cx="2263"
+       cy="2000"
+       r="852"
+       fill="url(#g12)"
+       id="circle60"
+       style="fill:url(#g12)" />
+    <circle
+       cx="2624"
+       cy="2098"
+       r="847"
+       fill="url(#g5)"
+       id="circle61"
+       style="fill:url(#radialGradient193)" />
+    <circle
+       cx="3412"
+       cy="2216"
+       r="888"
+       fill="url(#g9)"
+       id="circle62"
+       style="fill:url(#radialGradient194)" />
+    <circle
+       cx="-588"
+       cy="2216"
+       r="888"
+       fill="url(#g9)"
+       id="circle63"
+       style="fill:url(#radialGradient195)" />
+    <circle
+       cx="429"
+       cy="3037"
+       r="879"
+       fill="url(#g8)"
+       id="circle64"
+       style="fill:url(#radialGradient196)" />
+    <circle
+       cx="4429"
+       cy="3037"
+       r="879"
+       fill="url(#g8)"
+       id="circle65"
+       style="fill:url(#radialGradient197)" />
+    <circle
+       cx="1181"
+       cy="2910"
+       r="846"
+       fill="url(#g10)"
+       id="circle66"
+       style="fill:url(#radialGradient198)" />
+    <circle
+       cx="2137"
+       cy="2593"
+       r="899"
+       fill="url(#g1)"
+       id="circle67"
+       style="fill:url(#radialGradient199)" />
+    <circle
+       cx="2886"
+       cy="2780"
+       r="846"
+       fill="url(#g8)"
+       id="circle68"
+       style="fill:url(#radialGradient200)" />
+    <circle
+       cx="182"
+       cy="3792"
+       r="852"
+       fill="url(#g11)"
+       id="circle69"
+       style="fill:url(#radialGradient201)" />
+    <circle
+       cx="4182"
+       cy="3792"
+       r="852"
+       fill="url(#g11)"
+       id="circle70"
+       style="fill:url(#radialGradient202)" />
+    <circle
+       cx="182"
+       cy="-208"
+       r="852"
+       fill="url(#g11)"
+       id="circle71"
+       style="fill:url(#radialGradient203)" />
+    <circle
+       cx="4182"
+       cy="-208"
+       r="852"
+       fill="url(#g11)"
+       id="circle72"
+       style="fill:url(#radialGradient204)" />
+    <circle
+       cx="1049"
+       cy="3765"
+       r="853"
+       fill="url(#g5)"
+       id="circle73"
+       style="fill:url(#radialGradient205)" />
+    <circle
+       cx="1049"
+       cy="-235"
+       r="853"
+       fill="url(#g5)"
+       id="circle74"
+       style="fill:url(#radialGradient206)" />
+    <circle
+       cx="1873"
+       cy="3601"
+       r="850"
+       fill="url(#g2)"
+       id="circle75"
+       style="fill:url(#radialGradient207)" />
+    <circle
+       cx="1873"
+       cy="-399"
+       r="850"
+       fill="url(#g2)"
+       id="circle76"
+       style="fill:url(#radialGradient208)" />
+    <circle
+       cx="2544"
+       cy="3753"
+       r="911"
+       fill="url(#g8)"
+       id="circle77"
+       style="fill:url(#radialGradient209)" />
+    <circle
+       cx="2544"
+       cy="-247"
+       r="911"
+       fill="url(#g8)"
+       id="circle78"
+       style="fill:url(#radialGradient210)" />
+    <circle
+       cx="3574"
+       cy="3381"
+       r="880"
+       fill="url(#g3)"
+       id="circle79"
+       style="fill:url(#radialGradient211)" />
+    <circle
+       cx="-426"
+       cy="3381"
+       r="880"
+       fill="url(#g3)"
+       id="circle80"
+       style="fill:url(#radialGradient212)" />
+    <circle
+       cx="3574"
+       cy="-619"
+       r="880"
+       fill="url(#g3)"
+       id="circle81"
+       style="fill:url(#radialGradient213)" />
+    <circle
+       cx="-426"
+       cy="-619"
+       r="880"
+       fill="url(#g3)"
+       id="circle82"
+       style="fill:url(#radialGradient214)" />
+  </g>
+</svg>
